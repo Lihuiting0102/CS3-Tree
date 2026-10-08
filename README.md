@@ -1,8 +1,8 @@
-# CS3-Tree: A Cross-Sensor-Species-Space Harmonization Framework for Robust Cross-Ecosystem Tree Cover Type Classification
+# CS3-Tree: A cross-sensor-species-space classification framework for airborne-to-satellite tree cover types mapping
 
 This repository is the official project page for:
 
-**"CS3-Tree: A Cross-Sensor-Species-Space Harmonization Framework for Robust Cross-Ecosystem Tree Cover Type Classification"**
+**"CS3-Tree: A cross-sensor-species-space classification framework for airborne-to-satellite tree cover types mapping"**
 
 The source code and related resources will be publicly available after the publication of the paper.
 
